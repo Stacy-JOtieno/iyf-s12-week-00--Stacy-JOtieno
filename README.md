@@ -19,3 +19,7 @@
 - Email: otienostacy80@gmail.com
 - LinkedIn: www.linkedin.com/in/stacy-otieno-86a825360
 - Instagram: @Di_tyacs
+
+## Setup
+user.name=Stacy Otieno
+user.email=jjaqkuxhi@gmail.com
