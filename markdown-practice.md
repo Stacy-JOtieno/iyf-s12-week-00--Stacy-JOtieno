@@ -3,8 +3,7 @@
 ### This Semester
 
 # EXERCISE 2 - TEXT FORMATTING
-To build a **strong** foundation in programming, I *always* make sure to practice using 'git status' everyday.
-Check out my [GitHub Profile](https://github.com/Stacy-JOtieno) and visit [MDN Web Docs](https://developer.mozilla.org) for helpful web development guides.
+To build a **strong** foundation in programming, I *always* make sure to practice using `git status` everyday.
 
 # EXERCISE 3 - LINKS
 Things I want to learn:
